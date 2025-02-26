@@ -1,0 +1,19 @@
+{
+  "name": "voxel-planet",
+  "version": "0.1.0",
+  "builtin-baseline": "01be99fec01f777c4113ceea192a45115c69cdb7",
+  "dependencies": [
+    {
+      "name": "openvdb",
+      "version>=": "12.0.0"
+    },
+    {
+      "name": "tbb",
+      "version>=": "2021.8.0"
+    },
+    {
+      "name": "boost",
+      "version>=": "1.82.0"
+    }
+  ]
+}
